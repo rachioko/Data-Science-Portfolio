@@ -25,7 +25,7 @@ Data Analysis and Visualisation
 
 Python
 
-Tools: Pandas, Folium, Seaborn and Matplotlib
+Tools: Pandas, Seaborn and Matplotlib
 
 Other Projects:
 
