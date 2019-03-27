@@ -23,7 +23,7 @@ Tools: NLTK, scikit, R
 
 Data Analysis and Visualisation
 
-Python
+Text review data exploration: Exploring and analysing te clothing store review data 
 
 Tools: Pandas, Seaborn and Matplotlib
 
