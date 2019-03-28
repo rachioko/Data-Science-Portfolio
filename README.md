@@ -14,7 +14,7 @@ Tools: R, Linear Regression, random forest.
 
 ### Deep Learning: 
 
-Artistry: Training Convolutional Neural Networks on images of painitngs to predict the artist of a painting.  
+Artistry: Training Convolutional Neural Networks on images of paintngs in order to predict the artist.  
 
 Tools: numpy, Tensorflow, CNN, Tensorboard
 
