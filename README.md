@@ -35,6 +35,5 @@ Text review data exploration: Exploring and analysing te clothing store review d
 
 Tools: Pandas, Seaborn and Matplotlib
 
-
-
+### Contact
 Want to have a chat about the portfolio, work/collab opportunities, email at rachioko@yahoo.com
